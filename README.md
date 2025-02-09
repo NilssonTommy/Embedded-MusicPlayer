@@ -3,8 +3,13 @@ OverviewThis project is a real-time embedded music player implemented in C using
 
 
 🎼  Features Play Brother John melody (p to play, s to stop)
+
 🔇 Mute and volume control (m to mute, i to increase, d to decrease, max volume: 20, min: 1)
+
 🎚 Adjust tempo (set a value between 60-240 BPM using t)
+
 🎵 Change pitch (values between -5 and 5 using k)
+
 🎛 Switch between Conductor and Musician mode (TAB key)
+
 ⏳ Dynamic tempo switching (USER button interactions for real-time tempo adjustment)
